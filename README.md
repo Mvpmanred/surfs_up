@@ -31,4 +31,4 @@ Similarly, we analayzed all December temperatures from 2010 to 2017. And here is
 * Max is 83.
 
 ## Summary
-From our data analysis, we can compare all month of June and December from 2010 to 2017. Based on the satistical information, we can see both standard devations of temperature are 3.25 for June and 3.75 for December. The difference is only 0,5. In another words, the temperatures in city Oahu is pretty much the same between June and December. It would be a good idea for W.Avy to open surf shop or ice cream shop in Oahu based on our temerature data analysis.
+From our data analysis, we can compare all month of June and December from 2010 to 2017. Based on the statistical information, we can see both standard devations of temperature are 3.25 for June and 3.75 for December. The difference is only 0,5. In another words, the temperatures in city Oahu is pretty much the same between June and December. It would be a good idea for W.Avy to open surf shop or ice cream shop in Oahu based on our temerature data analysis.
